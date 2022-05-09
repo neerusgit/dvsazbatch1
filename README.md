@@ -1,2 +1,2 @@
 # dvsazbatch1
-dotnet application
+dotnet application test
